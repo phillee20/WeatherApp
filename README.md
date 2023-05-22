@@ -1,26 +1,17 @@
 # WeatherApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2. It is an app that will show the minimum, maximum temperature, humitidity and wind speed. The data is pulled in from Open Weather API - https://rapidapi.com/KirylBokiy/api/openweather43/
 
-## Development server
+This is my first project created with Angular and the goal is to get first experience with this open source, JavaScript framework that's built on TypeScript.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## How to View the project
 
-## Code scaffolding
+To view the project, you can perform the below
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+git clone https://github.com/YOURGITHUBUSERNAME/WeatherApp.git
 
-## Build
+ Run `ng serve -o` on the terminal. This will navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Further help
 
