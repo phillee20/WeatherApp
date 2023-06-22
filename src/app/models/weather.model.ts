@@ -1,4 +1,4 @@
-//got the below through rapidAPI. Copy results to JSON formatter and gthen copy to JSON to TypeScript to the below.
+//got the below through rapidAPI. Copy results to JSON formatter and then copy to JSON to TypeScript to the below.
 
 export interface WeatherData {
   coord: Coord
