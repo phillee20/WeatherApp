@@ -1,6 +1,6 @@
 export const environment = {
     production: false,
-    weatherApiBaseUrl:'https://open-weather13.p.rapidapi.com/city/cityName',
+    weatherApiBaseUrl:'https://open-weather13.p.rapidapi.com/city/Glasgow',
 
     XRapidAPIHostHeaderName: "X-RapidAPI-Host",
     XRapidAPIHostHeaderValue: "open-weather13.p.rapidapi.com",
